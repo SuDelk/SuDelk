@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software engineer from Sri Lanka</h3>
 
 - 🔭 I’m currently working on **Infor Nexus ERP system** (That is the reason why there's not much contributions here in git😉)
-- 👯 I’m looking to collaborate on **open source projects**. Drop me an email !!!!!
+- 👯 I’m looking to collaborate on **open source projects**. Drop me an email !
 - 📫 How to reach me **sudul.fernando@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
